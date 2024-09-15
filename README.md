@@ -18,9 +18,9 @@ will try to understand
 the dataset by using pandas,numpy for data storing and processing and for visualisation
 we use matplotlib and seaborn.
 The data contains 6 coulmns:
-1.Hours studied : no of hours studied by student.
-2.previous scores: The previous scores of student.
-3.extracircular activites: the student has extracircular activities or not.
-4.sleep hours: the no.of hours they are sleeping.
-5.sample question papers practiced: the no.of pervious questions papers they practiced.
-6.performance index : the performance of the student.
+1.Hours studied : no of hours studied by student.<br>
+2.previous scores: The previous scores of student.<br>
+3.extracircular activites: the student has extracircular activities or not.<br>
+4.sleep hours: the no.of hours they are sleeping.<br>
+5.sample question papers practiced: the no.of pervious questions papers they practiced.<br>
+6.performance index : the performance of the student.<br>
